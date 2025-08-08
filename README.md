@@ -96,8 +96,9 @@ C.Muni Sekhar (Data Analyst)
 
 LinkedIn: [https://www.linkedin.com/in/munisekhar05]
 
-Dashboard Overview / Demo 
-[Overview](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
+Dashboard Overview / Demo
+DashboardLookslike . - [Alt text](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
+Example : [Overview](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
 
 Email: [munisekhar0503@outlook.com]
 
