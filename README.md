@@ -1,5 +1,8 @@
-I am Completed power bi Project on IPL 2008 - 2025 GIVE ME FULL REAMDME FOR GITHUB TO POST ADD LIVE DASHBOARD LINK AFTER I CAN EDIT IT ,IMAGE PROMPT LINK
-Here is a comprehensive GitHub README template for your IPL 2008–2025 Power BI Project. This format will highlight your work, help others understand your process, and let you easily insert your live dashboard link and an image link when ready.
+I am Completed power bi Project on IPL 2008 - 
+2025 GIVE ME FULL REAMDME FOR GITHUB TO POST ADD LIVE DASHBOARD LINK AFTER I CAN EDIT IT ,
+IMAGE PROMPT LINK
+Here is a comprehensive GitHub README template for your IPL 2008–2025 Power BI Project. 
+This format will highlight your work, help others understand your process, and let you easily insert your live dashboard link and an image link when ready.
 
 IPL Analysis Dashboard (2008–2025) ⚡
 Interactive Data Visualization Project with Power BI
@@ -7,7 +10,6 @@ Interactive Data Visualization Project with Power BI
 📊 Live Dashboard Access
 👉 [https://app.powerbi.com/view?r=eyJrIjoiZjlmZGMzOTAtNzVlMi00YTUzLWJmMzktNDkwZDk3NTQ2ZmU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
-![IPL Dashboard Overview](IMAGE_PROMPT_LINK IMAGE_PROMPT_LINK with your dashboard image after upload. -->
 
 Table of Contents
 Project Overview
@@ -95,7 +97,7 @@ C.Muni Sekhar (Data Analyst)
 LinkedIn: [https://www.linkedin.com/in/munisekhar05]
 
 Dashboard Overview / Demo 
-Overview - [Alt text](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
+[Overview](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
 
 Email: [munisekhar0503@outlook.com]
 
