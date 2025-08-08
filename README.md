@@ -100,7 +100,7 @@ Email : munisekhar0503@outlook.com
 
 
 Dashboard Overview / Demo
-DashboardLookslike . - ![Alt text](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
-Example : ![Overview](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
+
+ ![Overview](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
 
 
