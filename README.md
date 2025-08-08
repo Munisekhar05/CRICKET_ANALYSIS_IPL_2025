@@ -1,3 +1,4 @@
+
 I am Completed power bi Project on IPL 2008 - 
 2025 GIVE ME FULL REAMDME FOR GITHUB TO POST ADD LIVE DASHBOARD LINK AFTER I CAN EDIT IT ,
 IMAGE PROMPT LINK
@@ -99,7 +100,7 @@ Email : munisekhar0503@outlook.com
 
 
 Dashboard Overview / Demo
-DashboardLookslike . - [Alt text](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
-Example : [Overview](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
+DashboardLookslike . - ![Alt text](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
+Example : ![Overview](https://github.com/Munisekhar05/CRICKET_ANALYSIS_IPL_2025/blob/main/IPL_Analysis_overview.png)
 
 
